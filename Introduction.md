@@ -1,4 +1,3 @@
-<img width="647" height="313" alt="image" src="https://github.com/user-attachments/assets/1e7a5ab5-aa6e-4816-a437-ece12197ea1f" /># Introduction
 
 * Spark's Architecture
 
