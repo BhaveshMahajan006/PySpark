@@ -1,7 +1,7 @@
 
 * Spark's Architecture
 
--- The Apache Spark framework uses a master-slave architecture that consists of a driver, which runs as a master node, and many executors that run across as worker nodes in the cluster. Apache Spark can be used for batch processing and real-time processing as well.
+-The Apache Spark framework uses a master-slave architecture that consists of a driver, which runs as a master node, and many executors that run across as worker nodes in the cluster. Apache Spark can be used for batch processing and real-time processing as well.-
 
 <img width="647" height="313" alt="image" src="https://github.com/user-attachments/assets/18c33a6a-07f5-4f8f-932c-9e6d34626661" />
 
